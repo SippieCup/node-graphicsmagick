@@ -1,1 +1,1 @@
-# docker + debian + nodejs + graphicsmagick
+# nodejs + graphicsmagick
